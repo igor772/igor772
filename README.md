@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on crypto projects and javascript
 - 📫 How to reach me, you can find me on discord igorr#1956
+-   I like to ride my horse 
 
 <!---
 igor772/igor772 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
